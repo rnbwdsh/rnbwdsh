@@ -34,7 +34,8 @@
 * Coding contests like CCC, AoC, etc.
 * Open source <3 Manjaro / Cinnamon
 
-## Technologies
+## Languages
 * Backend: Python, Node/Express, Java/Kotlin, C/C++/CUDA
 * Frontend: Vue, React, Angular
 * Doc: Markdown, LaTeX, HTML/CSS
+* Humans: DE, NL; Learning: RU, NL, ES
