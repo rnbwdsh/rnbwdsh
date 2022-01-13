@@ -1,4 +1,5 @@
 ## Somewhat useful own projects / tools
+* [Advent of code kotlin](https://github.com/rnbwdsh/advent-of-code-kotlin) A submitter for advent-of-code to get inputs and submit answers via kotlin, powered by fuel, gson and junit tests, modeled after [aocd](https://github.com/wimglenn/advent-of-code-data/tree/master/).py
 * [Advent of code](https://github.com/rnbwdsh/advent-of-code) 2018 - now, in python, including an AOCD based test + submission annotation -- Watch my code become less ~~readable~~ shitty every year
 * [Recursive gif creator](https://github.com/rnbwdsh/gif_recursion)
 * [Total youtube watchtime calculator](https://github.com/rnbwdsh/youtube-watchtime-calculator) using GDPR Export files
