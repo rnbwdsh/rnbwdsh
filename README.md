@@ -12,6 +12,8 @@
 * [Slick Greeter](https://github.com/rnbwdsh/slick-greeter) Minor features for the (Linux Desktop Manager Greeter)
 * [JKU Discord bot](https://github.com/rnbwdsh/StV-Informatik-AI-Discord-Bot)
 * [JKU App](https://github.com/marunjar/anewjkuapp) for Android
+* [Mitmproxy](https://github.com/rnbwdsh/mitmproxy) "Save Filtered" feature
+* [Vial-GUI](https://github.com/rnbwdsh/vial-gui) Update deps from py3.6 to 3.10
 
 ## Ugly, unpolished projects for teaching myself things
 * [Rust with rustlings](https://github.com/rnbwdsh/rustlings)
