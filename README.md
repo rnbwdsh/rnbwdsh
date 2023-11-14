@@ -25,6 +25,7 @@
 * [Pytorch lightning](https://github.com/rnbwdsh/visualizing-and-undertanding-rnns-using-pytorch-lightning) Less NN training boiler plate
 
 ## Jobs
+* Part time java dev @ RISE
 * Part time señor py dev @[datavisyn](https://github.com/datavisyn)
 * XAI tutor @[JKU ICG](https://github.com/JKU-ICG)
 * Freelance programming/consulting projects
@@ -38,7 +39,7 @@
 * Open source <3 Manjaro / Cinnamon
 
 ## Languages
-* Backend: Python, Node/Express, Java/Kotlin, C/C++/CUDA
+* Backend: Python, Node/Express, Java/Kotlin, C/C++/CUDA, Nim
 * Frontend: Vue, React, Angular
 * Doc: Markdown, LaTeX, HTML/CSS
 * Humans: DE, NL; Learning: RU, NL, ES
